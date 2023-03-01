@@ -1,0 +1,122 @@
+/*news*/
+.news-banar {
+    background-color: #6abf16;
+    padding: 20px;
+}
+
+.news-banar-box {
+    height: 100px;
+}
+
+.news-banar-box h1 {
+    font-size: 30px;
+    margin-top: -10px;
+    margin-bottom: 0px;
+    color: #ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.news-banar-box p {
+    font-size: 16px;
+    color: #ffffff;
+}
+
+/*Section left-site-news*/
+
+.news-body{
+    padding: 15px;
+    background-color: #ffffff;
+    display: flex;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.news-left{
+    width: 620px;
+    padding: 10px;
+}
+.news-box{
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.news-photo img{
+    height: 142px;
+    width: 142px;
+    border: 1px solid #d1cfcf; 
+    padding: 7px;
+}
+
+.news-ditals{
+    padding: 5px;
+    margin-left: 25px;
+}
+.news-header{
+    font-size: 19px;
+    margin-bottom: -5px;
+    margin-top: -5px;
+}
+
+.news-parag{
+    font-size: 14px;
+    margin-bottom: 12px;
+    margin-top: -25px;
+    color: #817f7f;
+}
+.news-parag a{
+    text-decoration: none;
+    color: chocolate;
+    font-weight: bold;
+}
+.news-parag a:hover{
+    text-decoration:underline;
+
+}
+
+.butto{
+    margin-left: 106px;
+    margin-top: 22px;
+}
+
+
+/*Section RIGHT-site-news*/
+.news-right{
+    padding: 10px;
+    margin-top: -25px;
+}
+.news-update{
+    padding: 10px;
+}
+.news-update-header{
+    font-size: 20px;
+}
+.news-parg-heading{
+    text-decoration: none;
+    color: #0e4369;
+}
+.update-news-parag{
+font-size: 15px;
+margin-top: -10px;
+margin-bottom: -9px;
+color: #817f7f;
+}
+.update-news-parag a{
+    text-decoration: none;
+    font-weight: bold;
+    color: chocolate;
+}
+.update-news-parag a:hover{
+    text-decoration:underline;
+
+}
+.latest-project{
+    padding: 10px;
+}
+.latest-project img{
+    width: 330px;
+    height: 190px;
+    border: 1px solid #d1cfcf;
+    padding: 7px;
+    margin-bottom: 15px;
+}
+

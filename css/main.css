@@ -1,0 +1,123 @@
+.banner {
+    padding: 20px;
+    background-color: #63a943;
+    height: 254px;
+    margin-top: 0;
+}
+
+/*Section Green Age*/
+.green-age {
+    background-color: aliceblue;
+    padding: 30px;
+    margin-top: 4px;
+}
+
+.green-age-box {
+    display: flex;
+}
+
+.green-age h2 {
+    text-align: center;
+}
+
+.green-age-left {
+    width: 490px;
+    padding: 0px;
+}
+
+.green-age-right {
+    width: 490px;
+}
+
+.Templates {
+    display: flex;
+    padding: 10px;
+    margin-bottom: 29px;
+    margin-top: 22px;
+}
+
+.temp-dita {
+    margin-left: 19px;
+}
+
+.temp-header {
+    text-decoration: none;
+    color: #3a3a3a;
+}
+
+.temp-header:hover {
+    text-decoration: underline 2px #330075;
+}
+
+.temp-parag {
+    font-size: 13px;
+    color: #969696;
+    margin-bottom: 13px;
+}
+
+.temp-parag a {
+    text-decoration: none;
+    color: coral;
+
+}
+
+
+
+.green-are-img {
+    width: 94px;
+    height: 90px;
+}
+
+.nusa-return {
+    display: flex;
+}
+
+.banner img {
+    margin-top: -13px;
+}
+
+/*latest-projects*/
+.latest-box {
+    display: flex;
+    padding: 10px;
+    margin-left: 6px;
+}
+
+.latest-elim {
+    padding: 10px;
+    margin-top: -72px;
+}
+
+.latest-elim h4 {
+    font-style: normal;
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: left;
+    margin-left: 4px;
+
+}
+
+.latest-elim img {
+    border: 1px solid #686666;
+    padding: 4px;
+}
+
+.latest-elim p {
+    font-size: 13px;
+    color: #686666;
+    margin-bottom: 17px;
+    margin-top: 4px;
+}
+
+.latest-projects {
+    background-color: aliceblue;
+    margin-top: -33px;
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+.latest-projects h2 {
+    padding: 35px;
+    font-size: 40px;
+}
+

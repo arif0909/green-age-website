@@ -1,0 +1,136 @@
+/*Blog*/
+.blog {
+    background-color: #6abf16;
+    padding: 20px;
+}
+
+.blog-box {
+    height: 100px;
+}
+
+.blog-box h1 {
+    font-size: 30px;
+    margin-top: -13px;
+    margin-bottom: 10px;
+    color: #ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.blog-box p {
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.blog-button {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    background-image: url(../images/tooplate_button.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 82px 30px;
+    margin-left: 436px;
+    margin-top: 30px;
+    padding: 20px;
+    width: 200px;
+}
+.blog-button:hover{
+    color: #ffffff;
+}
+
+/*blog-list-left*/
+
+.blog-list {
+    background-color: #ffffff;
+    padding: 15px;
+    display: flex;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.blog-list-left {
+    width: 650px;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+.blog-time {
+    font-size: 12px;
+    color: #464545;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.blog-time a {
+    text-decoration: none;
+    color: coral;
+}
+
+.blog-time a:hover {
+    text-decoration: underline;
+}
+
+.blog-header {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 10px;
+}
+
+.blog-img {
+    border: 7px solid #e7e7e7;
+}
+
+.blog-parg {
+    font-size: 14px;
+    color: #878787;
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+
+.blog-parg a {
+    text-decoration: none;
+    color: coral;
+    font-weight: bold;
+}
+
+.blog-parg a:hover {
+    text-decoration: underline;
+}
+
+.lectus-rhoncus {
+    padding: 10px;
+}
+
+/*blog-list-right*/
+.blog-list-right {
+    padding: 10px;
+    margin-top: 59px;
+}
+
+.blog-list-right h2 {
+    margin-bottom: 10px;
+}
+
+.blog-project {
+    padding: 5px;
+    margin-bottom: 15px;
+}
+
+.blog-project img {
+    border: 7px solid #e7e7e7;
+}
+
+.blog-project p {
+    font-size: 13px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.blog-project p a{
+    color: coral;
+    text-decoration: none;
+    font-weight: bold;
+}
+.blog-project p a:hover{
+    text-decoration: underline;
+}
+

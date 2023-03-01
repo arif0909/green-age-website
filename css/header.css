@@ -1,0 +1,120 @@
+body {
+    width: 1000px;
+    background-color: #acacac;
+    font-family: Tahoma, Geneva, sans-serif;
+    margin-left: 390px;
+}
+
+.header-title {
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.menu-bar ul {
+    display: flex;
+    margin: 0px;
+}
+
+.menu-bar {
+    background-color: black;
+
+    display: flex;
+}
+
+.menu-bar ul li {
+    border-right: 2px solid #36ff04;
+    list-style: none;
+    border-radius: 6px;
+}
+
+.menu-bar ul li:last-child {
+    border: none;
+}
+
+.menu-bar ul li a {
+    display: block;
+    width: 100px;
+    height: 32px;
+    padding: 8px 0 0;
+    margin: 0;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    color: #5fa008;
+    font-weight: normal;
+    outline: none;
+    border: none;
+    background: url(../images/tooplate_menu.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 16px 13px;
+}
+
+.menu-bar ul li a:hover {
+    color: white;
+    background-image: url(../images/tooplate_menu_hover.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 16px 13px;
+}
+
+.surch {
+    background-image: url(../images/tooplate_search.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 159px 31px;
+    width: 165px;
+    height: 24px;
+    margin-top: 7px;
+    margin-left: 223px;
+}
+
+#such {
+    width: 136px;
+    height: 24px;
+    border none;
+    position: relative;
+}
+
+/*footer*/
+footer {
+    background-color: black;
+    height: 50px;
+    padding: 15px;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer p a {
+    text-decoration: none;
+    color: #5fa008;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+
+}
+
+/*bUTTON*/
+
+.button {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    background-image: url(../images/tooplate_button.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 82px 30px;
+    margin-left: 197px;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.button:hover {
+    color: aliceblue;
+}
